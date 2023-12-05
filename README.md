@@ -1,6 +1,6 @@
 # In Passing
 
-A visualization of passing and touch data from the 2022 FIFA Men’s World Cup. Built with d3.js, hosted [on observable](https://observablehq.com/@alipatti/in-passing).
+Interactive visualizations of passing data from the 2022 FIFA Men’s World Cup. Built with d3.js, hosted [on observable](https://observablehq.com/@alipatti/in-passing).
 
 ## Screenshots
 
